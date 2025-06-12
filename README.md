@@ -78,7 +78,7 @@ SmartWordlistGen
 1. Clone the repository or download the source code:
    ```shell
    git clone https://github.com/hiitaro/Wordlist-Generator.git
-   python main.py
+   python WordlistGen/main.py
    ```
 3. Install dependencies:
    ```shell
