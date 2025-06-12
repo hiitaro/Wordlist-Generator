@@ -150,24 +150,6 @@ foOtballbeN
 
 ---
 
-## 🧪 Testing
-
-To run unit tests:
-
-```
-pytest
-```
-
-Tests cover core mutation logic, combinatorics, file output, and input handling.
-
----
-
-## 📜 License
-
-MIT License. See the LICENSE file for details.
-
----
-
 ## 🤝 Contributing
 
 Pull requests and suggestions are welcome!
